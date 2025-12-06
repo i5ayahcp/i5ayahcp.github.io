@@ -55,18 +55,16 @@ body {
   display: flex;
 }
 .skills-content {
-  margin-left: 100px;
   display: flex;
   justify-content: space-around;
+  padding-inline: 60px;
   text-align: center;
   flex-direction: row;
   margin-top: 180px;
-  background-color: aliceblue;
-
 }
-.textimg{
+.texting{
   font-family: "Poppins", sans-serif;
-  font-size: 32px;
+  font-size: 24px;
   color: white;
 }
 .item1 {
@@ -76,4 +74,8 @@ body {
 .image{
   width: 120px;
   height: 140px;
+}
+.box{
+  background-color: aliceblue;
+  opacity: 0.2;
 }

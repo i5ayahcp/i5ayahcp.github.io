@@ -1,1 +1,1 @@
-console.log("Hello")
+import { pvdata } from "./data.js";
